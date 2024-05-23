@@ -19,6 +19,6 @@ io.on('connection', (socket) => {
     });
   });
 
-server.listen(3000, () => {
+server.listen(3000,'192.168.10.12', () => {
   console.log("server running ")
 })
