@@ -2,6 +2,6 @@
 -> permission.
 -> Server Migration to python.
 ---------
-Learn Generative AI
+Learn Generative AI .
 ---
 
